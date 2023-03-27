@@ -1,0 +1,4 @@
+/Users/sean/vs_workspace/google_test/googletest/googletest/samples/build/CMakeFiles/MyTest.dir
+/Users/sean/vs_workspace/google_test/googletest/googletest/samples/build/CMakeFiles/statemachine.dir
+/Users/sean/vs_workspace/google_test/googletest/googletest/samples/build/CMakeFiles/edit_cache.dir
+/Users/sean/vs_workspace/google_test/googletest/googletest/samples/build/CMakeFiles/rebuild_cache.dir
